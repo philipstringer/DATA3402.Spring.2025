@@ -1,0 +1,5 @@
+canvas_width = 30
+canvas_height = 30
+rectangle(5, 3, 3, 7)
+circle(10, 21, 10)
+triangle(6, 6, 10,10, 6)
